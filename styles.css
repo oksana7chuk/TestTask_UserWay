@@ -1,0 +1,14 @@
+.renewedImg {
+  border: 2px solid rgb(18, 197, 188);
+}
+.altInput {
+  width: 80px;
+  height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
